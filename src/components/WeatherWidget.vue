@@ -112,7 +112,7 @@ export default {
   font-size: 16px;
   border-radius: 15px;
   border: 1px solid #ccc;
-  width: calc(100% - 140px); /* Sesuaikan dengan margin button */
+  width: calc(100% - 140px);
 }
 
 .button {
